@@ -52,6 +52,8 @@ class Employee:
   # class body
 ```
 
+---
+
 ### 2. What is an object ?
 
 Object is an instance of a class that has access to all the attributes and methods of that class.
@@ -70,6 +72,8 @@ employee = Employee()
 # You will be learning more about attributes and methods in the next section.
 ```
 
+---
+
 ### 3. What is Object Instantiation ?
 
 The process of creation of an object of a class is called instantiation
@@ -78,7 +82,7 @@ The process of creation of an object of a class is called instantiation
 
 ## Exercise - Classes and Objects <a id="exercise"></a>
 
-### Define a class called "Employee" and create an instance of that class. Create an attribute called name and assign it with a value. Change the name you previously defined within a method and call this method by making use of the object you created.
+#### Define a class called "Employee" and create an instance of that class. Create an attribute called name and assign it with a value. Change the name you previously defined within a method and call this method by making use of the object you created.
 
 ```py
 
