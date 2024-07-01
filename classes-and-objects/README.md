@@ -30,9 +30,11 @@ employeeTwo = Employee() # new object
 employeeTwo.name # "Ben"
 ```
 
-## Basic Questions <a id="questions"></a>
+---
 
-### What is a class ?
+## Questions <a id="questions"></a>
+
+### 1. What is a class ?
 
 A class is logical grouping of attributes (variables) and methods (functions).
 
@@ -50,7 +52,7 @@ class Employee:
   # class body
 ```
 
-### What is an object ?
+### 2. What is an object ?
 
 Object is an instance of a class that has access to all the attributes and methods of that class.
 
@@ -68,7 +70,7 @@ employee = Employee()
 # You will be learning more about attributes and methods in the next section.
 ```
 
-### What is Object Instantiation ?
+### 3. What is Object Instantiation ?
 
 The process of creation of an object of a class is called instantiation
 
